@@ -5,4 +5,4 @@ def using_concat(anything, array2)
   anything.concat(array2)
 end
 
-using_concat(arg1, arg2)
+using_concat(blue, green)
